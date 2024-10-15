@@ -1,0 +1,53 @@
+{
+    "name": "testHomeFragmentTextMatches",
+    "start": 1728997335239,
+    "stop": 1728997336005,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "279e0ba7-a4eb-4853-b3b6-4a1765ab17c1",
+    "historyId": "aced82408d1f6932c39bb59ad7553850",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.HomeFragmentTest.testHomeFragmentTextMatches",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.HomeFragmentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHomeFragmentTextMatches"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.HomeFragmentTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(65)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
