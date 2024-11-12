@@ -80,6 +80,6 @@
 ```
    allure serve
 ```
-  * Скришот отчёта добавлен в [issues](https://github.com/levvolkov/Espresso/issues/2) репозитория.
+  * Скриншот отчёта добавлен в [issues](https://github.com/levvolkov/Espresso/issues/2) репозитория.
 
  
